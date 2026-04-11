@@ -7,7 +7,7 @@ I love tackling complex problems, creating intuitive user experiences, and pushi
 ## 🔧 Technical Skills  
 
 ### 💻 **Languages**  
-- Python, C/C++, C#, Dr. Racket, HTML, SQL  
+- Python, C/C++, C#, Dr. Racket, HTML, SQL, JavaScript  
 
 ### 🚀 **Frameworks**  
 - React, Flask  
