@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bertram Qian!  
+# Hi, I'm Bertram  
 
 Rahhhh
 
